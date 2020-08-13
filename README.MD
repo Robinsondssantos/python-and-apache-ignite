@@ -4,8 +4,8 @@ This project is a bunch of simple example of how to use Python and Apache Ignite
 
 ## Technologies
 
-- [Python] (https://www.python.org/)
-- [Apache Ignite] (https://ignite.apache.org/)
+- [Python](https://www.python.org/)
+- [Apache Ignite](https://ignite.apache.org/)
 
 ## Getting started
 
